@@ -25,10 +25,8 @@ TDS:AutoSkip("T")                  -- Automatically skips waves
 
 -- [[ STRATEGY SCRIPT: Place and Upgrade Towers ]]
 -- Place and upgrade towers based on your predefined strategy
-macroURL = "https://
-raw.githubusercontent.com/
-yourname/macro.lua", -- Your raw
-github macro link
+macroURL = "https://raw.githubusercontent.com/yourname/macro.lua",
+-- Your raw github macro link
 
 -- Add more placements and upgrades if necessary
 -- This section includes only a portion of your strategy for clarity
